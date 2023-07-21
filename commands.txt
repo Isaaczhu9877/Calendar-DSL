@@ -1,0 +1,21 @@
+Hey Scheduler!
+create event titled "CPSC 410",
+description "advanced software engineering",
+start "2022 05 16 1300", end "2022 05 16 1530",
+start "2022 05 18 1300", end "2022 05 18 1530",
+start "2022 05 20 1300", end "2022 05 20 1530",
+repeat weekly until "2022 06 30 2359" please!
+Thanks!
+
+
+Hey Scheduler!
+delete event titled "CPSC 410",
+start "2022 05 23 1300", end "2022 05 23 1530" please!
+Thanks!
+
+
+Hey Scheduler!
+change event titled "CPSC 410",
+start "2022 05 20 1300", end "2022 05 20 1530"
+replace description "learning about lexers and parsers" please!
+Thanks!

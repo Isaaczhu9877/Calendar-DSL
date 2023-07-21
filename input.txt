@@ -1,0 +1,5 @@
+Hey Scheduler!
+change event titled "CPSC 410",
+start "2022 05 16 1300",
+replace description "introductory lecture" please!
+Thanks!
