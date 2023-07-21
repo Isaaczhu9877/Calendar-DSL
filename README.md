@@ -1,1 +1,2 @@
-# First commit
+# Calendar DSL
+Calendar Domain Specific Language
